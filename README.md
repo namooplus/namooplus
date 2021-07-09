@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 -->
 
 ## 정보
-[블로그 바로가기](https://namooplus.github.io/)
+블로그 바로가기 (Temporarily closed)
+<!-- [블로그 바로가기](https://namooplus.github.io/) -->
