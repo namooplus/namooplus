@@ -1,11 +1,11 @@
-<img src="header.svg" width="100%" alt="header">
+<img src="header.png" width="100%" alt="header">
 
 <h3>Hello, I'm namoo!</h3>
 
 <hr/>
 
 - 🐤 I'm interested in building interactive experiences.
-- 💻 I worked as a frontend engineer at Mathpresso(QANDA).
+- 💻 I'm a product engineer at ThePlato(Tiro).
 - 🏫 I'm majoring in Computer Science at Yonsei University.
 
 <hr/>
